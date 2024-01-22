@@ -1,0 +1,4 @@
+1.	totaly contained under the current palindrome
+2.	current palindrome expands to the end of the input
+3.	palindrome expands till the right edge and its current mirror palindrome expands to the left edge
+4.	palindrome expands till the right edge and its mirror expands beyond the left edge
